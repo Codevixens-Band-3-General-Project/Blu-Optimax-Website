@@ -70,8 +70,7 @@
 }
 
 .text-area {
-    margin-top: 15%;
-    margin-bottom: 15%;
+    margin-top: 13%;
 }
 
 .text-area h3 {
@@ -95,15 +94,15 @@
     margin-bottom: 20%;
 }
 
-.text-area a {
-    padding: 15px 30px;
+.t-a-link {
     text-decoration: none;
-    background-color: #0392B8;
-    color: #FFF;
-    text-align: center;
-    font-family: Nunito;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
+}
+
+
+
+.img-area {
+    width: 60%;
+}
+.img-area img {
+    object-fit: contain;
 }
