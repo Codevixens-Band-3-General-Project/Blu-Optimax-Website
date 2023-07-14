@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.d-flex {
+    display: flex;
+}
+
+.container {
+    margin: auto;
+    width: 93%;
+}
+
+/* start of navbar styling  */
+.nav-sec {
+    padding: 15px 63px 0px 63px;
+}
