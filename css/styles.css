@@ -103,6 +103,8 @@
 }
 .img-area img {
     object-fit: contain;
+    position: relative;
+    top: 88px;
 }
 /* end of section-1 styling */
 
