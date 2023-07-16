@@ -225,7 +225,7 @@
 }
 
 .image {
-    width: 50%;
+    width: 40%;
 }
 
 .image img {
@@ -233,7 +233,44 @@
 }
 
 .text {
+    width: 60%;
     padding: 10%;
 }
+
+.fa-star {
+    color : #EB5757;
+    padding-right: 1%;
+}
+
+.text-p1 {
+    padding: 2% 0;
+    color: #333333cc;
+    font-family: Nunito;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 150%;
+}
+
+.text-p2 {
+    color: #333333cc;
+    font-family: Cabin;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0.28px;
+}
+
+.arrow {
+    margin: 30% 0 5% 0;
+    font-size: 25px;
+}
+
+.fa-arrow-left {
+    color: #b4b4b4;
+    padding-right: 2%;
+}
+
 
 /* end of section-4 styling */
