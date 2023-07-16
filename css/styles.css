@@ -488,6 +488,7 @@
     line-height: normal;
     background-color: white;
     padding: 12px 32px;
+    text-decoration: none;
 }
 
 .s7-3 {
@@ -513,3 +514,99 @@
     margin-top: 2%;
 }
 /* end of section-7 styling */
+
+/* start of footer styling */
+.ft {
+    padding: 5% 0 7% 0;
+}
+
+.ft .logo {
+    width: 30%;
+}
+
+.logo-img {
+    width: 70%;
+}
+
+.logo-p {
+    margin: 2% 0 3% 0;
+    color: #333333e6;
+    font-family: Cabin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 1.2px;
+}
+
+.ft .content {
+    width: 70%;
+    justify-content: space-between;
+}
+
+.d1 p:first-child, .d4 p:first-child, .d4 p:last-child {
+    color: #333333e6;
+    font-family: Cabin;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0.28px;
+    padding: 9% 0;
+}
+
+.d1 p:last-child {
+    color: #333333e6;
+    font-family: Cabin;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    margin: 5% 0;
+}
+
+.d2 div {
+    margin: 5% 0 7% 0;
+}
+
+.d2 div:first-child {
+    margin-top: unset;
+}
+
+.d2 a {
+    text-decoration: none;
+    color: #333333e6;
+    font-family: Cabin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
+    padding: 7% 0;
+    word-spacing: 5px;
+}
+
+.d3 p:first-child {
+    color: #333333e6;
+    font-family: Cabin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 200%;
+    margin: 5% 0 7% 0;
+}
+
+.d3 p:nth-of-type(2) {
+    font-size: 16px;
+    margin-bottom: 10%;
+}
+
+.d1, .d2, .d3, .d4 {
+    border-top: 2px solid #333333e6;
+    width: 20%;
+}
+
+.d2 {
+    padding-top: 2%;
+}
+
+/* end of footer styling */
