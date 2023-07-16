@@ -114,10 +114,11 @@
 
 .clients {
     border-right: 2px solid #BDBDBD;
+    width: 30%;
 }
 
 .clients h4 {
-    padding: 0px 60px;
+    padding: 0px 20px;
     font-family: Cabin;
     font-size: 36px;
     font-style: normal;
@@ -127,13 +128,15 @@
     margin-top: 3%;
 }
 
-/* .companies {
-    width: 63.857%;
+.companies {
+    width: 70%;
 }
 
-.companies div {
-    width: 24%;
-} */
+.comp-div {
+    width: 25%;
+    text-align: center;
+}
+/* end of section-2 styling */
 
 /* start of section-3 styling */
 .section-3 {
