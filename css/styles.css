@@ -488,6 +488,7 @@
     line-height: normal;
     background-color: white;
     padding: 12px 32px;
+    text-decoration: none;
 }
 
 .s7-3 {
@@ -513,3 +514,36 @@
     margin-top: 2%;
 }
 /* end of section-7 styling */
+
+/* start of footer styling */
+.ft {
+    padding: 5% 0 7% 0;
+}
+
+.ft .logo {
+    width: 30%;
+}
+
+.logo-img {
+    width: 70%;
+}
+
+.logo-p {
+    margin: 2% 0 3% 0;
+    color: #333333e6;
+    font-family: Cabin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 1.2px;
+}
+
+.ft .content {
+    width: 70%;
+}
+
+.content div {
+    width: 25%;
+}
+/* end of footer styling */
