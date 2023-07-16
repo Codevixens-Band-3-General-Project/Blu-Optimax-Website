@@ -539,6 +539,18 @@
     letter-spacing: 1.2px;
 }
 
+.logo-div {
+    margin-top: 10%;
+}
+
+.logo-div p {
+    margin-bottom: 5%;
+}
+
+.logo-div img {
+    padding-right: 5%;
+}
+
 .ft .content {
     width: 70%;
     justify-content: space-between;
@@ -609,4 +621,8 @@
     padding-top: 2%;
 }
 
+.copyright {
+    text-align: center;
+    margin: 5% 0 2% 0;
+}
 /* end of footer styling */
