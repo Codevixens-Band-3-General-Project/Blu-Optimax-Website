@@ -63,3 +63,35 @@
     line-height: normal;
 }
 /* end of navbar styling  */
+
+/* start of section-2 styling */
+.section-2 {
+    background: #F2F2F2;
+    padding: 30px 87px 30px 0px;
+}
+
+.clients {
+    border-right: 2px solid #BDBDBD;
+    width: 30%;
+}
+
+.clients h4 {
+    padding: 0px 20px;
+    font-family: Cabin;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    color: #333333;
+    margin-top: 3%;
+}
+
+.companies {
+    width: 70%;
+}
+
+.comp-div {
+    width: 25%;
+    text-align: center;
+}
+/* end of section-2 styling */
