@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cabin', sans-serif;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.container {
+    margin: auto;
+    width: 93%;
+}
+
+.ta {
+    text-align: center;
+}
+
+/* start of navbar styling  */
+.nav-sec {
+    padding: 25px 63px 15px 63px;
+    border-bottom: 0.5px solid #0392B8;
+}
+
+.nav-logo {
+    width: 25%;
+}
+
+.nav {
+    width: 60%;
+    display: flex;
+    gap: 40px;
+    padding-top: 5px;
+}
+
+.request {
+    width: 25%;
+    padding-top: 5px;
+}
+
+.request a {
+    padding: 15px 30px;
+    text-decoration: none;
+    background-color: #0392B8;
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.nav a {
+    text-decoration: none;
+    color: rgba(51, 51, 51, 0.75);
+    font-family: Cabin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+/* end of navbar styling  */
