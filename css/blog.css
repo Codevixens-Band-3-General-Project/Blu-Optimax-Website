@@ -96,6 +96,12 @@
 }
 /* end of section-2 styling */
 
+/* start of section 3 styling */
+.section-3 h1{
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+}
 
 /* start of section-7 styling */
 .section-7 {
