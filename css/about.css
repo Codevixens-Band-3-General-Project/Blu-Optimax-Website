@@ -109,8 +109,37 @@
 }
 
 .iconss{
-    position: absolute;
+    position: relative;
     bottom: 20px;
+    padding-bottom: 80px;
+}
+
+.fa{
+    position: relative;
+    bottom: 20px;
+    padding-bottom: 90px;
+}
+
+.fa-user{
+    position: relative;
+    bottom: 20px;
+    padding-bottom: 90px;
+}
+
+.last{
+    padding-bottom: 5%;
+}
+
+.lastDiv{
+    gap: 100px;
+    position: relative;
+}
+
+.lastDiv i{
+    position: absolute;
+    bottom: 10px;
+    left: -30px;
+    color: #4F4F4F;
 }
 
 textarea{
