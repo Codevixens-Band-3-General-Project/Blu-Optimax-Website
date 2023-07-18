@@ -151,6 +151,38 @@
 }
 /* end of section-2 styling */
 
+/* end of section-3 styling */
+.dev {
+    margin: 5%;
+    justify-content: space-between;
+}
+
+.dev-1 {
+    margin-bottom: 5%;
+    width: 45%;
+}
+
+.dev-1 h2 {
+    color: #333333cc;
+    font-family: Cabin;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
+    margin: 5% 0 3% 0;
+}
+
+.dev-1 p {
+    color: rgba(51, 51, 51, 0.80);
+    font-family: Cabin;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    padding-right: 20%;
+}
+/* end of section-3 styling */
+
 /* start of section-7 styling */
 .section-7 {
     background-color: #EB5757;
