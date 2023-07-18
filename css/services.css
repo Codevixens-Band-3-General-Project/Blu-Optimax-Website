@@ -183,6 +183,71 @@
 }
 /* end of section-3 styling */
 
+/* start of section-4 styling */
+.sec-4 {
+    border-radius: 10px;
+    background: #0392B8;
+    margin-bottom: 8%;
+    padding: 4% 10%;
+}
+
+.sec-4 h3 {
+    color: #FFF;
+    text-align: center;
+    font-family: Cabin;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; 
+}
+
+.div-1, .div-3 {
+    margin-top: 4%;
+}
+
+.div-1 p:first-child, .div-2 p:first-child, .div-3 p:first-child {
+    color: #FFF;
+    font-family: Cabin;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.div-1 p:last-child {
+    color: #FFF;
+    font-family: Cabin;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    margin-top: 1.5%; 
+}
+
+.div-2 p:last-child, .div-3 p:last-child {
+    color: #FFF;
+    font-family: Cabin;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    margin-top: 2.5%; 
+}
+
+.div-2, .div-3 {
+    justify-content: space-between;
+}
+
+.div-3 div {
+    width: 42%;
+    margin-top: 3%;
+}
+
+.div-3 div:first-child {
+    padding-left: 17%;
+}
+/* end of section-4 styling */
+
 /* start of section-7 styling */
 .section-7 {
     background-color: #EB5757;
