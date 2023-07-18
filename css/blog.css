@@ -169,7 +169,6 @@ span{
 
 .arrow {
     margin: 30% 0 5% 0;
-    font-size: 50px;
 }
 
 .fa-arrow-left {
@@ -182,6 +181,7 @@ span{
     justify-content: center;
     text-align: center;
     padding-top: 5%;
+    font-size: 50px;
 }
 
 
@@ -193,7 +193,9 @@ span{
 
 .section-5 i{
     position: relative;
-    bottom: 20%;
+    bottom: 250px;
+    left: 690px;
+    font-size: 60px;
 
 }
 
