@@ -65,10 +65,103 @@
 /* end of navbar styling  */
 
 
+.cont {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 40%;
+    color: #4F4F4F;
+}
+  
+.cont img {
+    margin-right: 10px; 
+}
 
+.line{
+    padding-left: 10px;
+}
 
+.para{
+    width: 42%;
+    margin: auto;
+    color:#4F4F4F,
+}
 
+.text{
+    display: flex;
+    padding:5% 0 5% 300px; 
+    width: 80%;
+    margin: auto;
+    gap: 20px;
+}
 
+.text img{
+    width: 30px;
+    height: 30px;
+}
+
+.fontSmall{
+    font-size: 50%;
+}
+
+.fontBig{
+    font-size: 100%;
+}
+
+.iconss{
+    position: absolute;
+    bottom: 20px;
+}
+
+textarea{
+ width: 500px;
+}
+
+#team{
+    padding-bottom: 15px;
+}
+
+#right{
+    padding-bottom: 15px;
+}
+
+.last{
+  margin: auto;
+  width: 40%;
+  padding-top: 25px;
+}
+
+hr{
+  margin: auto;
+  width: 50%;
+  height: 2px;
+  background: #E5E5E5;
+}
+
+.rect{
+    margin: auto;
+    width: 45%;
+    justify-content: center;
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.icon{
+    color: #333333CC;
+}
+
+.contain{
+    display: flex;
+    align-items: center;
+}
+
+.easy{
+    margin: auto;
+    width: 40%;
+    font-size: 25px;
+    font-weight:900 ;
+}
 /* start of section-7 styling */
 .section-7 {
     background-color: #EB5757;
@@ -132,82 +225,6 @@
     margin-top: 2%;
 }
 /* end of section-7 styling */
-
-.container {
-    display: flex;
-    align-items: center;
-    margin: auto;
-    width: 40%;
-    color: #4F4F4F;
-}
-  
-.container img {
-    margin-right: 10px; 
-}
-
-.line{
-    padding-left: 10px;
-}
-
-.para{
-    width: 42%;
-    margin: auto;
-    color:#4F4F4F,
-}
-
-.text{
-    display: flex;
-}
-
-textarea{
- width: 500px;
-}
-
-#team{
-    padding-bottom: 15px;
-}
-
-#right{
-    padding-bottom: 15px;
-}
-
-.last{
-  margin: auto;
-  width: 40%;
-  padding-top: 25px;
-}
-
-hr{
-  margin: auto;
-  width: 50%;
-  height: 2px;
-  background: #E5E5E5;
-}
-
-.rect{
-    margin: auto;
-    width: 45%;
-    justify-content: center;
-    display: flex;
-    padding-bottom: 20px;
-    padding-top: 10px;
-}
-
-.icon{
-    color: #333333CC;
-}
-
-.contain{
-    display: flex;
-    align-items: center;
-}
-
-.head{
-    margin: auto;
-    width: 40%;
-    font-size: 25px;
-    font-weight:900 ;
-}
 
 /* start of footer styling */
 .ft {
