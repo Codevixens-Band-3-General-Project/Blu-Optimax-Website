@@ -118,6 +118,15 @@
     line-height: 120%;
 }
 
+.w30 h6 {
+    color: #F2F2F2;
+    font-family: Cabin;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+}
+
 .s7 {
     padding-bottom: 5%;
 }
