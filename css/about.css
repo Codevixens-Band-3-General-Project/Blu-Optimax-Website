@@ -64,6 +64,9 @@
 }
 /* end of navbar styling  */
 
+.easy {
+    padding: 5% 0 3% 0;
+}
 
 .cont {
     display: flex;
@@ -71,6 +74,7 @@
     margin: auto;
     width: 40%;
     color: #4F4F4F;
+    margin-bottom: 3%;
 }
   
 .cont img {
@@ -85,6 +89,10 @@
     width: 42%;
     margin: auto;
     color:#4F4F4F,
+}
+
+.pretium {
+    margin-top: 3%;
 }
 
 .text{
