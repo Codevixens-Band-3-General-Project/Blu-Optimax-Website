@@ -471,7 +471,13 @@
 }
 
 .w30 h2 {
-    margin-left: 35px;;
+    margin-left: 35px;
+    color: #F1F1F1;
+    font-family: Cabin;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
 }
 
 
