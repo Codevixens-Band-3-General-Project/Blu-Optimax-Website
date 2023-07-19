@@ -64,6 +64,10 @@
 }
 /* end of navbar styling  */
 
+.section-1 > img {
+    width: 100%;
+}
+
 /* start of section-2 styling */
 .section-2 {
     background: #F2F2F2;
@@ -101,7 +105,8 @@
     text-align: center;
     align-self: center;
     justify-content: center;
-    padding: 2% 0 2% 0;
+    font-size: 50px;
+    margin: 5% 0 5% 0;
 }
 
 .blog-construction{
@@ -110,9 +115,16 @@
     gap: 20px;
 }
 
+ .section-4 {
+    padding: 0 4% 0 2%;
+}
 
 .blog-construction-1 img, p, a, span{
     padding-bottom: 4%;
+}
+
+.blog-construction-1 img {
+    width: 100%;
 }
 
 .blog-construction-1 a{
@@ -197,6 +209,10 @@ span{
     left: 690px;
     font-size: 60px;
 
+}
+
+.section-5 > img {
+    width: 100%;
 }
 
 /* start of section-7 styling */
