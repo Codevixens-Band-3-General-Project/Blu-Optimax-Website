@@ -465,6 +465,32 @@
     width: 30%;
 }
 
+.w30 img {
+    padding: 10px 20px 10px 5px;
+    border-right: 3px solid #F1F1F1;
+}
+
+.w30 h2 {
+    margin-left: 35px;
+    color: #F1F1F1;
+    font-family: Cabin;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.w30 h6 {
+    margin-left: 35px;
+    margin-top: 5%;
+    color: #F2F2F2;
+    font-family: Cabin;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+}
+
 .s7 {
     padding-bottom: 5%;
 }

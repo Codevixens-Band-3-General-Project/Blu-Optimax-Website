@@ -64,11 +64,25 @@
 }
 /* end of navbar styling  */
 
+.section-2 img {
+    width: 100%;
+}
+
 /* start of section 3 styling */
 .section-3{
     text-align: center;
     padding-top: 2%;
+}
 
+.section-3 h2 {
+    color: #333;
+    text-align: center;
+    font-family: Cabin;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%; 
+    margin: 2% 0;
 }
 
 .section-3 span{
@@ -90,9 +104,15 @@
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
-    width: 90%;
+    width: 100%;
     margin: auto;
-    padding-bottom: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 15%;
+}
+
+.section-4 img {
+    width: 25%;
 }
 /* start of section-7 styling */
 .section-7 {
@@ -101,6 +121,32 @@
 
 .w30 {
     width: 30%;
+}
+
+.w30 img {
+    padding: 10px 20px 10px 5px;
+    border-right: 3px solid #F1F1F1;
+}
+
+.w30 h2 {
+    margin-left: 35px;
+    color: #F1F1F1;
+    font-family: Cabin;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.w30 h6 {
+    margin-left: 35px;
+    margin-top: 5%;
+    color: #F2F2F2;
+    font-family: Cabin;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
 }
 
 .s7 {

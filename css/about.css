@@ -64,6 +64,9 @@
 }
 /* end of navbar styling  */
 
+.easy {
+    padding: 5% 0 3% 0;
+}
 
 .cont {
     display: flex;
@@ -71,6 +74,7 @@
     margin: auto;
     width: 40%;
     color: #4F4F4F;
+    margin-bottom: 3%;
 }
   
 .cont img {
@@ -85,6 +89,10 @@
     width: 42%;
     margin: auto;
     color:#4F4F4F,
+}
+
+.pretium {
+    margin-top: 3%;
 }
 
 .text{
@@ -194,6 +202,32 @@ hr{
 
 .w30 {
     width: 30%;
+}
+
+.w30 img {
+    padding: 10px 20px 10px 5px;
+    border-right: 3px solid #F1F1F1;
+}
+
+.w30 h2 {
+    margin-left: 35px;
+    color: #F1F1F1;
+    font-family: Cabin;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.w30 h6 {
+    margin-left: 35px;
+    margin-top: 5%;
+    color: #F2F2F2;
+    font-family: Cabin;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
 }
 
 .s7 {
